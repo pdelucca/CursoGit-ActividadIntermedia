@@ -47,7 +47,7 @@ git clone https://github.com/pdelucca/CursoGit-ActividadIntermedia.git
       Los resultados del add y del commit se detallan en la siguiente captura:
 
 
-      ![Clonado de Repositorio](imagenesActividadIntermedia/3-addcommit.png)
+      ![Clonado de Repositorio](imagenesActividadIntermedia/3-AddCommit.png)
 
   ## Creación de directorio de documentación de modulos hasta la clase 2 y otras modificaciones
 
