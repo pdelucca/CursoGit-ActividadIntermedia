@@ -41,13 +41,13 @@ git clone https://github.com/pdelucca/CursoGit-ActividadIntermedia.git
    - Finalmente generar la versión con commit en el repositorio local:
      
      ```sh
-     git commit -m "Primer commit del proyecto"
+     git commit -m "Se comnpletó el readme.md y se agregaron las imagenes de captura de la actividad intermedia"
      ```
 
       Los resultados del add y del commit se detallan en la siguiente captura:
 
 
-      ![Clonado de Repositorio](imagenesActividadIntermedia/3-AddCommit.png)
+      ![Clonado de Repositorio](imagenesActividadIntermedia/3-addcommit.png)
 
   ## Creación de directorio de documentación de modulos hasta la clase 2 y otras modificaciones
 
@@ -59,10 +59,10 @@ git clone https://github.com/pdelucca/CursoGit-ActividadIntermedia.git
   Al igual que en el versionado anterior se realiza el add y luego el commit. 
 
   ```sh
-  git commit -m "Segundo commit del proyecto"
+  git commit -m "Se agregó la carpeta de documentación del curso y se actualizó el readme.md"
   ```
 
-   > **_Nota:_** Está claro que en los mensajes de ambos commit se debe describir brevemente las tareas que se realizaron para cada versión. En este caso, como las tareas están detalladas en este mismo documento, se resalta en el mensaje el orden de los commit para mejor comprensión de los pasos realizados.
+   > **_Nota:_** Está claro que en los mensajes de ambos commit se debe describir brevemente las tareas que se realizaron para cada versión. En este caso, como las tareas están detalladas en este mismo documento, se resalta en el mensaje las tareas para mejor comprensión de los pasos realizados en el curso.
 
 
 También se ejecuta el log para listar los commit en el repositorio local:
@@ -78,7 +78,7 @@ git log
 
    
 ## Agregar documento Cuestionario.md del cuestionario planteado en la actividad junto con sus respuestas
-Se agregó el documento cuestionario.md a la carpeta cuestionario. También se lo agregón en formato docx
+Se agregó el documento cuestionario.md a la carpeta cuestionario. También se lo agregó en formato docx
 
 
 ###	Principales diferencias entre Subversion (SVN) y Git 
@@ -93,3 +93,7 @@ Github se centra básicamente en el repositorio y el control de versiones mientr
 Github cuenta con: GitHub Actions, que permite automatizar flujos de integración continua, que es un proceso donde los cambios se integran automaticamenste mediante el proceso de compilación, ejecución de pruebas y validaciones. Los conflictos en el desarrollo suelen notarse antes de que se acumulen.
 La plataforma Gitlab ofrece la posibilidad de instalarse en un entorno de servidor local. Esto permite el trabajo de un equipo de desarrollo sin obligación de  conexión a la nube.
 Además gitlab ofrece su núcleo en código abierto mientras que github no es completamente open source.
+
+[Documentación Detallada(formato MD)](Cuestionario/Cuestionario.md)
+
+[Documentación Detallada(formato Word)](Cuestionario/Cuestionario.md)
